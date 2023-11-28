@@ -10,4 +10,6 @@ It is better to take the quiz every 2-3 days.
 ## Disclaimer
 The quiz is a programming tool; it is not an educational tool because no context is provided.
 
-##
+## Installation
+
+
