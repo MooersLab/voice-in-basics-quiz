@@ -229,7 +229,7 @@ def VoiceIn_q():
     shuffle(q_VoiceIn)
     print('A quiz about VoiceIn.')
     print('The quiz is designed to refresh the memory.')
-    print('Spending ten minutes with this quiz after a hiatas from voice could \
+    print('Spending ten minutes with this quiz after a hiatas from Voice In could \
 save you hours via improved efficiency.')
     print('\n')
     print('The non-home keystrokes are abbreviated as follows: ')
