@@ -7,7 +7,6 @@
 
 # prevent python2 from reading print('asd','add') as a tuple.
 
-
 from __future__ import print_function
 
 from random import shuffle
@@ -20,7 +19,7 @@ import inspect
 import types
 
 print(" ")
-print("Usage: ./qvoice.py")
+print("Usage: ./qVoiceIn.py")
 print(" ")
 
 
@@ -119,7 +118,7 @@ n-nary product ⨀ ⨂ ∏ ∐ ⨉
 Copyright Notice
 ================
 
-Copyright (C) 2019
+Copyright (C) 2023
 Blaine Mooers and University of Oklahoma Board of Regents
 
 This program is free software: you can redistribute it and/or modify
