@@ -1,3 +1,7 @@
+![version](https://img.shields.io/static/v1?label=voice-in-basics-quiz&message=0.5&color=brightcolor)
+[![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
+
+
 # voice-in-basics-quiz
 
 ## Propose
