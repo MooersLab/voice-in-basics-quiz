@@ -988,9 +988,9 @@ def interactive_quiz():
         fileStemName = "qvoice"
         homePath = "/Users/blaine/6254qvoice/" 
         table_name = "qvoice"
-        topic = "Clojure"
+        topic = "VoiceIn"
         print("\n")
-        print("Select one quiz about Clojure:" + "\n")
+        print("Select one quiz about VoiceIn:" + "\n")
         
         print("1.  VoiceIn")
         print("\n")
@@ -1009,7 +1009,7 @@ def interactive_quiz():
         if SELECTEDQ == 1:
             QUESTION_ANSWER_SOURCE = VoiceIn_q()
             SUBQUIZ = "VoiceIn"
-            TOPIC = "Clojure"
+            TOPIC = "VoiceIn"
             write_pdfall(QUESTION_ANSWER_SOURCE, SUBQUIZ, TOPIC)
         quiz_me(QUESTION_ANSWER_SOURCE)
         reply = input('Enter text, [type \"stop\" to quit or hit the Enter (or Return key) to select another quiz]: ')
