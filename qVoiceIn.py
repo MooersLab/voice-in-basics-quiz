@@ -196,13 +196,13 @@ def VoiceIn_q():
     ("Say ___ ____ to insert an exclamation mark.", "exclamation mark", "1", "1"),
     ("Say ___ ____ to insert the close quote in the Chrome browser.", "close quote", "1", "1"),
     ("Say ___ ____ to insert the current date in the Chrome browser.", "insert date", "1", "1"),
-    ("Say ___ ____ to insert the left brace { in the Chrome browser.", "open brace", "1", "1"),
-    ("Say ___ ____ to insert the left parapgraph ( in the Chrome browser.", "open paragraph", "1", "1"),
-    ("Say ___ ____ to insert the left parapgraph [ in the Chrome browser.", "open bracket", "1", "1"),
+    ("Say ___ ____ to insert the open brace { in the Chrome browser.", "open brace", "1", "1"),
+    ("Say ___ ____ to insert the open parenthesis ( in the Chrome browser.", "open paragraph", "1", "1"),
+    ("Say ___ ____ to insert the open bracket [ in the Chrome browser.", "open bracket", "1", "1"),
     ("Say ___ ____ to insert the open quote in the Chrome browser.", "open quote", "1", "1"),
-    ("Say ___ ____ to insert the right brace } in the Chrome browser.", "close brace", "1", "1"),
-    ("Say ___ ____ to insert the right paragraph ) in the Chrome browser.", "close paragraph", "1", "1"),
-    ("Say ___ ____ to insert the right paragraph ] in the Chrome browser.", "close bracket", "1", "1"),
+    ("Say ___ ____ to insert the close brace } in the Chrome browser.", "close brace", "1", "1"),
+    ("Say ___ ____ to insert the close paragraph ) in the Chrome browser.", "close paragraph", "1", "1"),
+    ("Say ___ ____ to insert the close bracket ] in the Chrome browser.", "close bracket", "1", "1"),
     ("Say ___ ____ to press the return or enter key in the Chrome browser.", "press enter", "1", "1"),
     ("Say ___ ____ to press the tab key in the Chrome browser.", "press tab", "1", "1"),
     ("Say ___ ____ to scroll down in the Chrome browser.", "scroll down", "1", "1"),
@@ -970,7 +970,7 @@ def write_all():
         if SELECTEDQ == 1:
             QUESTION_ANSWER_SOURCE = VoiceIn_q()
             SUBQUIZ = "VoiceIn"
-            TOPIC = "Clojure"
+            TOPIC = "VoiceIn"
             write_pdfall(QUESTION_ANSWER_SOURCE, SUBQUIZ, TOPIC)
     return
 
