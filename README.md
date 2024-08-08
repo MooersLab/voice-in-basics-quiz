@@ -74,11 +74,29 @@ Enter the following in another code cell.
 ```bash
 %run -i "qVoiceIn.py"
 ```
+
+## Related projects
+
+- [markdown-jupyter-voice-in](https://github.com/MooersLab/markdown-jupyter-voice-in)
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [arviz-voice-in](https://github.com/MooersLab/arviz-voice-in)
+- [matplotlib-voice-in](https://github.com/MooersLab/matplotlib-voice-in)
+- [pandas-voice-in](https://github.com/MooersLab/pandas-voice-in)
+- [numpy-voice-in](https://github.com/MooersLab/numpy-voice-in)
+- [statsmodels-voice-in](https://github.com/MooersLab/statsmodels-voice-in)
+- [jupyter-voice-in](https://github.com/MooersLab/jupyter-voice-in)
+- [python-voice-in](https://github.com/MooersLab/python-voice-in)
+- [cmdstanpy-voice-in](https://github.com/MooersLab/cmdstanpy-voice-in)
+- [scipy-voice-in](https://github.com/MooersLab/scipy-voice-in)
+
+
 ## Updates
 
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.6 |  Added update table and funding sources. Edited typos in README.md                                                                         | 2024 April 13        |
+| Version 0.7 |  Added related projects section.                                                                                                           | 2024 August 8        |
+
 
 ## Funding
 
