@@ -1,4 +1,4 @@
-![version](https://img.shields.io/static/v1?label=voice-in-basics-quiz&message=0.6&color=brightcolor)
+![version](https://img.shields.io/static/v1?label=voice-in-basics-quiz&message=0.6.1&color=brightcolor)
 [![license: mit](https://img.shields.io/badge/license-mit-blue.svg)](https://opensource.org/licenses/mit)
 
 
@@ -95,7 +95,7 @@ Enter the following in another code cell.
 |Version      | Changes                                                                                                                                    | Date                 |
 |:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
 | Version 0.6 |  Added update table and funding sources. Edited typos in README.md                                                                         | 2024 April 13        |
-| Version 0.7 |  Added related projects section.                                                                                                           | 2024 August 8        |
+| Version 0.6.1 |  Added related projects section to README.md.                                                                                            | 2024 August 8        |
 
 
 ## Funding
